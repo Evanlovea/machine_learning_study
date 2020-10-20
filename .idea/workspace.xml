@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="55ba43dc-e789-49e2-862e-65265745a210" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/DataFrameSelector.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/train_random_forest_regressor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/train_regression_model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/triain_decision_tree_regressor.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GetData.py" beforeDir="false" afterPath="$PROJECT_DIR$/GetData.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_preparation.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_preparation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/housing.csv" beforeDir="false" afterPath="$PROJECT_DIR$/housing.csv" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -122,8 +115,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/train_random_forest_regressor.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="298">
-              <caret line="24" column="22" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+            <state relative-caret-position="431">
+              <caret line="31" column="38" lean-forward="true" selection-start-line="31" selection-start-column="38" selection-end-line="31" selection-end-column="38" />
               <folding>
                 <element signature="e#227#278#0" expanded="true" />
               </folding>
@@ -141,6 +134,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Evan &lt;1522910531@qq.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -386,12 +384,20 @@
       <workItem from="1601132978867" duration="386000" />
       <workItem from="1601881734178" duration="23852000" />
       <workItem from="1601946211882" duration="18554000" />
-      <workItem from="1603019765664" duration="9616000" />
+      <workItem from="1603019765664" duration="9720000" />
     </task>
+    <task id="LOCAL-00001" summary="train some models like regression model,decision model and the random forest model">
+      <created>1603029627512</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603029627512</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="82357000" />
+    <option name="totallyTimeSpent" value="82461000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -404,7 +410,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-8" width="1696" height="1026" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1314181" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -437,6 +442,8 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
+    <MESSAGE value="train some models like regression model,decision model and the random forest model" />
+    <option name="LAST_COMMIT_MESSAGE" value="train some models like regression model,decision model and the random forest model" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/pip/_internal/cli/req_command.py">
@@ -590,8 +597,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/train_random_forest_regressor.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="24" column="22" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+        <state relative-caret-position="431">
+          <caret line="31" column="38" lean-forward="true" selection-start-line="31" selection-start-column="38" selection-end-line="31" selection-end-column="38" />
           <folding>
             <element signature="e#227#278#0" expanded="true" />
           </folding>
